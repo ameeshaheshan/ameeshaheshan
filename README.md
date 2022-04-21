@@ -48,7 +48,7 @@ Welcome to My Github Profile..!
 * Heroku
 
 # Connect with me
-<img width="50%" align="right" alt="Induwara Uthsara's Contact Informations" src="https://github.com/induwarauthsara/induwarauthsara/blob/main/images/contactInduwaraUthsara.svg" />
+<img width="50%" align="right" alt="Induwara Uthsara's Contact Informations" src="https://github.com/ameeshaheshan/ameeshaheshan/blob/main/images/contact.svg" />
 
 - Gmail     : [ameeshaheshan251@gmail.com](mailto:ameeshaheshan251@gmail.com)
 - LinkedIn  : [linkedin.com/in/ameeshaheshan](https://www.linkedin.com/)

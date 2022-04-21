@@ -1,7 +1,7 @@
 # Hi there, I'm Ameesha Heshan
 ![Profile views](https://gpvc.arturio.dev/ameeshaheshan)
 ![Github](https://img.shields.io/github/followers/ameeshaheshan?label=Follow&style=social)
-<img width="40%" align="right" alt="Ameesha Heshan's Profile" src="https://github.com/ameeshaheshan/ameeshaheshan/blob/main/images/profile.svg" />
+<img width="30%" align="right" alt="Ameesha Heshan's Profile" src="https://github.com/ameeshaheshan/ameeshaheshan/blob/main/images/profile.svg" />
 
 Welcome to My Github Profile..! 
 

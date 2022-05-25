@@ -21,8 +21,6 @@ Welcome to My Github Profile..!
 
 
 # My Languages & Tools
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=ameeshaheshan)](https://github.com/ameeshaheshan)
-
 
 ## Languages
 * HTML

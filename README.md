@@ -3,7 +3,7 @@
 <h3 align="center">Passionate Cybersecurity Student | Exploring the Boundless World of Ethical Hacking and Digital Security</h3>
 
 <p align="center"> <em>
-   A <b>First Year</b> Undergraduate From <a href="https://cinec.edu/"> <b>CINEC CAMPUS</b>, Sri-Lanka</a>. <br>
+   A <b>First Year</b> Undergraduate From <a href="https://cinec.edu/" target="_blank"> <b>CINEC CAMPUS</b>, Sri-Lanka</a>. <br>
    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Cybersecurity Student</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
    with <b>Ethical HAcking</b> and always looking to find patterns of which are hidden in the data 
    </em> 
@@ -28,6 +28,8 @@
 - 🧑‍🎓 I’m an Undergraduate at **CINEC CAMPUS**
 
 - 💬 Ask me about **Web Application Penetration Testing**
+
+- 🧩 Expertise **Bug Bounty Hunting & Network Security**
 
 - 📫 How to reach me **ameeshaheshan251@gmail.com**
   

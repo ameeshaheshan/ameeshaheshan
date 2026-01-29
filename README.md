@@ -424,13 +424,9 @@ const novaExzzr = {
 
 <div align="center">
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ameeshaheshan/ameeshaheshan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ameeshaheshan/ameeshaheshan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ameeshaheshan/ameeshaheshan/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ameeshaheshan&theme=tokyo-night&bg_color=0D1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&hide_border=false&border_color=30363d" width="95%" alt="Contribution Graph"/>
 
 </div>
 
